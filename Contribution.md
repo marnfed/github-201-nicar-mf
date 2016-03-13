@@ -1,6 +1,3 @@
-Contribution Guidelines
+Contribution.md
 
--Topic focus
--Be nice
--Be brave
--Smile!
+Thisis my 
