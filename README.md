@@ -1,1 +1,2 @@
-# github-201-nicar-mf
+# GitHub NICAR Workshop
+## GitHub 201 This is about GitHub.
